@@ -15,9 +15,13 @@ TÓM TẮT CHƯƠNG TRÌNH:
 •  main: Hàm chính để đọc file đầu vào, xử lý mã hợp ngữ và ghi file đầu ra. Nó đọc file đầu vào, xử lý mã hợp ngữ để loại bỏ các bình luận, tính toán địa chỉ nhãn, thay thế các nhãn, và dịch các lệnh. Cuối cùng, nó ghi mã máy kết
 
 HƯỚNG DẪN SỬ DỤNG:
+
 Bước 1: Tạo file với tên “input.asm” với các mã muốn dịch và file “output.bin” trong cùng 1 folder với file .py này
+
 Bước 2: Chạy chương trình
+
 Bước 3: Mở file output.bin để thấy kết quả.
 
 LƯU Ý:
+
 Chương trình này chỉ dịch được những lệnh đã được định nghĩa sẵn trong code muốn dịch thêm thì tự định nghĩa thêm :3
